@@ -1,3 +1,3 @@
 # Demo
 
-Pushing the palindrome code and exporing git/github
+Pushing the palindrome code and exporing git/github.
